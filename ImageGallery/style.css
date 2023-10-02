@@ -12,7 +12,7 @@
     overflow-y: auto;
     background-color: rgb(54, 50, 50);
 
-    animation: 10s linear 6s infinite alternate colorChange;
+    animation: 10s linear 3s infinite alternate colorChange;
 }
 
 @keyframes colorChange{
@@ -66,7 +66,7 @@
     font-size: 3rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
-    animation: 10s linear 6s infinite alternate titleChange;
+    animation: 10s linear 3s infinite alternate titleChange;
 }
 
 @keyframes titleChange{
